@@ -1,0 +1,3 @@
+Day 1: Started learning Python
+Day 2: Went for a run
+Day 3: Built my first Python script
